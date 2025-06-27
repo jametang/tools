@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.apk\shell\installAPK]
+"Position"="Top"
+
+[HKEY_CLASSES_ROOT\.apk\shell\installAPK\command]
+@="\"D:\\tools\\easyinstall\\install_apk.bat\" \"%1\""
